@@ -1,3 +1,6 @@
+Once you download it, your browser will pop up a suspicious about the exe file, it is because with the installforge ive used, dont worry it doesnt have a virus :)
+
+
 Just Click the Setup Icon and You're Good To Go.
 
 
